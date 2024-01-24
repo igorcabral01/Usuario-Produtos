@@ -1,0 +1,14 @@
+C:\projetos\Usuario\obj\Debug\net8.0\Usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Usuario\obj\Debug\net8.0\Usuario.AssemblyInfoInputs.cache
+C:\projetos\Usuario\obj\Debug\net8.0\Usuario.AssemblyInfo.cs
+C:\projetos\Usuario\obj\Debug\net8.0\Usuario.csproj.CoreCompileInputs.cache
+C:\projetos\Usuario\bin\Debug\net8.0\Usuario.exe
+C:\projetos\Usuario\bin\Debug\net8.0\Usuario.deps.json
+C:\projetos\Usuario\bin\Debug\net8.0\Usuario.runtimeconfig.json
+C:\projetos\Usuario\bin\Debug\net8.0\Usuario.dll
+C:\projetos\Usuario\bin\Debug\net8.0\Usuario.pdb
+C:\projetos\Usuario\obj\Debug\net8.0\Usuario.dll
+C:\projetos\Usuario\obj\Debug\net8.0\refint\Usuario.dll
+C:\projetos\Usuario\obj\Debug\net8.0\Usuario.pdb
+C:\projetos\Usuario\obj\Debug\net8.0\Usuario.genruntimeconfig.cache
+C:\projetos\Usuario\obj\Debug\net8.0\ref\Usuario.dll
