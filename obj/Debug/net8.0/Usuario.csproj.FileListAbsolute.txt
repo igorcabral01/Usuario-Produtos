@@ -12,3 +12,4 @@ C:\projetos\Usuario\obj\Debug\net8.0\refint\Usuario.dll
 C:\projetos\Usuario\obj\Debug\net8.0\Usuario.pdb
 C:\projetos\Usuario\obj\Debug\net8.0\Usuario.genruntimeconfig.cache
 C:\projetos\Usuario\obj\Debug\net8.0\ref\Usuario.dll
+C:\projetos\Usuario\obj\Debug\net8.0\Usuario.sourcelink.json
