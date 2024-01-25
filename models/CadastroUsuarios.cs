@@ -2,10 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Usuario.Products;
 
 namespace Usuario.models
 {
-    public  class CadastroUsuarios
+    public  class CadastroUsuarios 
     {
         List<string>AddUsuario = new List<string> ();
         public string Usuario { get; private set; }
