@@ -44,11 +44,11 @@ namespace Usuario.models
             Console.WriteLine("Login Efetuado Com Sucesso!");
         }else
         {
-            Console.WriteLine("Usuario Ou Senha Incorretos!");
-            while (false)
-            {
-                break;
-            }
+           while (LoginUsu != Usuario && LoginSen != Senha)
+           {
+             Console.WriteLine("Usuario ou senha incorretos");
+             return;
+           }
         }
        }
        public void ListarUsuario()
