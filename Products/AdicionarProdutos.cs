@@ -7,23 +7,19 @@ using Usuario.models;
 
 namespace Usuario.Products
 {
-    public class AdicionarProdutos : CadastroUsuarios
+    public class AdicionarProdutos 
     {
-        List<string> Produtos = new List<string>();
+       
         public string AdicionarProdutosNaTabela { get; private set; }
-
-        public void AdcProdut()
-        {
-            Console.WriteLine("Gestor Adicione Produtos Disponiveis ");
-           Produtos.Add("Lapis");
-           Produtos.Add("papel");
-           Produtos.Add("borracha");
-           Produtos.Add("caneta");
-           Console.WriteLine($"Aqui Estao os produtos disponiveis para compra");
-           for (int i = 0; i < Produtos.Count; i++)
-             {
-            Console.WriteLine($"{i}-{Produtos[i]}");
-           }
-        }
+        public int Lapis { get; private set; }
+        public int Papel { get; private set; }
+        public int Caneta { get; private set; }
+       
+       
+     public void ValorLapis()
+     {
+        
+     }
+      
     }
 }
